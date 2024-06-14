@@ -1,6 +1,6 @@
 # JWT Basics API
 
-Taken from Node Course - John Smilga - Section 5 - JWT Basics API
+Taken from Node Course - John Smilga - Section 8 - JWT Basics API
 
 ## Description
 
